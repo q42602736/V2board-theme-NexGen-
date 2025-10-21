@@ -21,7 +21,7 @@
 | **主题版本** | 1.0.0 |
 | **更新日期** | 2025/10/21 |
 | **环境兼容** | v2board 1.7.2+、xboard、wyxboard |
-| **在线预览** |  |
+| **在线预览** | https://youtu.be/uUNS6Zey8-k |
 | **主题价格** | $ 60 USDT（前期优惠价格，后期会涨价） |
 | **授权方式** | 离线授权，一经授权终身可用，V2board及XBOARD后端域名，前端不限制域名 |
 | **交流群组** | [NexGen Theme Group](https://t.me/fluentboard666) |
