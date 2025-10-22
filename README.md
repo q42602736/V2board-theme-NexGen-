@@ -23,7 +23,7 @@
 | **环境兼容** | v2board 1.7.2+、xboard、wyxboard |
 | **在线预览** | [You Tube](https://www.youtube.com/watch?v=0LqaqoOu-vQ) |
 | **主题价格** | $ 60 USDT（前期优惠价格，后期会涨价） |
-| **授权方式** | 离线授权，一经授权终身可用，V2board及XBOARD后端域名，前端不限制域名 |
+| **授权方式** | 离线授权，一经授权终身可用，授权V2board及XBOARD后端域名，前端不限制域名 |
 | **交流群组** | [NexGen Theme Group](https://t.me/fluentboard666) |
 | **购买方式** | [联系购买](https://t.me/alexlilu) |
 
