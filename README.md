@@ -180,6 +180,177 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 - **加载优化** - 懒加载和代码分割，提升加载速度
 
 ---
+## 🎬 流媒体解锁检测脚本
+
+项目内置了强大的流媒体解锁检测脚本 `v2board.sh`，支持自动检测节点的流媒体解锁状态并同步到V2Board面板。
+
+### 🌟 脚本特性
+
+- **多平台支持**: Netflix、Disney+、YouTube Premium、Discovery+、Paramount+、Bahamut动画疯、OpenAI
+- **智能DNS解锁**: 支持为每个流媒体服务配置专用DNS服务器
+- **自动同步**: 检测结果自动同步到V2Board节点标签
+- **定时检测**: 支持设置定时任务，自动定期检测
+- **详细日志**: 完整的检测日志记录，便于问题排查
+- **V2Board集成**: 原生支持V2Board面板，无缝集成
+
+### 📋 使用方法
+
+#### 1. 基础使用
+
+```bash
+# 一键下载并运行脚本（推荐方式）
+bash <(wget -qO- https://raw.githubusercontent.com/q42602736/v2board-theme-luck/main/v2board.sh)
+```
+
+#### 2. 手动下载使用
+
+```bash
+# 下载脚本到服务器
+wget https://raw.githubusercontent.com/q42602736/v2board-theme-luck/main/v2board.sh
+chmod +x v2board.sh
+
+# 首次运行（会引导配置）
+./v2board.sh
+
+# 跳过配置直接检测（使用已有配置）
+./v2board.sh -S
+```
+
+#### 3. 配置流媒体解锁DNS
+
+首次运行脚本时，会提示配置各个流媒体服务的解锁DNS：
+
+```bash
+流媒体解锁 DNS 配置
+----------------------------------------
+请为每个流媒体服务设置解锁 DNS 服务器地址
+支持以下格式：
+1. IPv4 地址，例如: 1.1.1.1
+2. DNS服务器域名，例如: dns.example.com
+回车使用系统默认 DNS
+----------------------------------------
+
+Netflix 解锁 DNS [回车使用系统默认]: 8.8.8.8
+Disney+ 解锁 DNS [回车使用系统默认]: 1.1.1.1
+YouTube Premium 解锁 DNS [回车使用系统默认]:
+...
+```
+
+#### 4. V2Board面板配置
+
+脚本会自动引导您配置V2Board面板连接：
+
+```bash
+V2Board 流媒体解锁检测配置
+----------------------------------------
+请输入V2Board面板地址 (例如: https://demo.v2board.com): https://your-panel.com
+请输入管理员邮箱: admin@example.com
+请输入管理员密码: your-password
+
+# 选择节点类型
+可用的节点类型:
+1. vmess
+2. vless
+3. trojan
+4. shadowsocks
+5. hysteria
+6. tuic
+7. anytls
+
+请选择节点类型 (输入数字 1-7): 1
+
+# 选择具体节点
+可用的 vmess 节点:
+ID: 1 - 香港节点01
+ID: 2 - 美国节点01
+ID: 3 - 日本节点01
+
+请输入节点ID: 1
+```
+
+#### 5. 设置定时任务
+
+脚本支持自动设置定时检测任务：
+
+```bash
+设置自动检测任务
+----------------------------------------
+请选择检测频率：
+[1] 每 1 分钟
+[2] 每 1 小时
+[3] 每 2 小时
+[4] 每 3 小时
+[5] 每 4 小时
+[6] 每 6 小时
+[7] 每 8 小时
+[8] 每 12 小时
+[9] 每 24 小时
+[0] 不设置定时任务
+----------------------------------------
+请输入数字 [0-9]: 6
+```
+
+### 🔧 高级参数
+
+脚本支持多种命令行参数：
+
+```bash
+# 指定网络接口
+./v2board.sh -I eth0
+
+# 指定IP版本（4或6）
+./v2board.sh -M 4
+
+# 使用英文输出
+./v2board.sh -E
+
+# 指定代理
+./v2board.sh -P socks5://127.0.0.1:1080
+
+# 指定X-Forwarded-For IP
+./v2board.sh -X 1.2.3.4
+
+# 跳过配置（使用已有配置）
+./v2board.sh -S
+
+# 仅配置不检测
+./v2board.sh -C
+```
+
+### 📊 检测结果
+
+检测完成后，结果会自动同步到V2Board面板的节点标签中：
+
+```
+节点标签示例：
+- Netflix:Yes (Region: US)
+- Disney+:Yes (Region: US)
+- YouTube Premium:Yes (Region: US)
+- OpenAI:Yes (Region: US)
+```
+
+### 📝 配置文件
+
+脚本会在以下位置创建配置文件：
+
+- **DNS配置**: `/root/.unlock_config` - 存储各流媒体服务的DNS配置
+- **面板配置**: `/root/.v2board.config` - 存储V2Board面板连接信息
+- **检测日志**: `/root/media_unlock.log` - 详细的检测日志
+- **检测结果**: `/root/media_test_tpl.json` - JSON格式的检测结果
+
+### 🔄 管理定时任务
+
+```bash
+# 查看当前定时任务
+crontab -l
+
+# 删除解锁检测定时任务
+crontab -l | grep -v v2board.sh | crontab -
+
+# 手动添加定时任务（每6小时检测一次）
+echo "0 */6 * * * /bin/bash /root/v2board.sh -S" >> /var/spool/cron/root
+```
+
 
 ## 🤝 技术支持
 
