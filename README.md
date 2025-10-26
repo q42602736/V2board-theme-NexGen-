@@ -121,11 +121,11 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 ![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/0a3c790cdaaef6e63182c755f1ccdbce.png)
 
 ## 📸 超多自定义功能，比如可以自定义客服端区域的图标以及链接，还有侧边栏以及顶栏的菜单选项的的图标以及名称都能自定义，还能自定义点击跳转到别的页面
-![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/01ccfe943831124b197a3a8c8638a987.png))
+![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/01ccfe943831124b197a3a8c8638a987.png)
 
 
 ## 📸 项目登录页支持自定义图片以及图片API记忆视频及视频API随机更换登录页面背景
-![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/71432e75788b24bd1c896cec23279e5d.png)
+![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/316f57949fbf3c996d406da6b139d49a.png)
 
 
 
