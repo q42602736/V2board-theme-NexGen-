@@ -118,7 +118,7 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 ---
 ## 📸 特色公告输入点击优惠卷自动到达套餐页面自动填入优惠卷
-![预览图 1]([https://tncache1-f1.v3mh.com/image/2025/10/21/1dcd504e59a7cb91fb28737680653c3a.png](https://tncache1-f1.v3mh.com/image/2025/10/26/0a3c790cdaaef6e63182c755f1ccdbce.png))
+![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/0a3c790cdaaef6e63182c755f1ccdbce.png)
 
 
 
