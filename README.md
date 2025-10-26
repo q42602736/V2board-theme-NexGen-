@@ -22,7 +22,7 @@
 | **更新日期** | 2025/10/21 |
 | **环境兼容** | v2board 1.7.2+、xboard、wyxboard |
 | **视频预览** | [You Tube](https://www.youtube.com/watch?v=0LqaqoOu-vQ)|
-| **在线预览** | [在线演示](https://nexgen.afeicloud.de/)|测试账号：123@qq.com 密码：123456789
+| **在线预览** | [在线演示](https://nexgen.afeicloud.de/)测试账号：123@qq.com 密码：123456789|
 | **主题价格** | $ 60 USDT（前期优惠价格，后期会涨价） |
 | **授权方式** | 离线授权，一经授权终身可用，授权V2board及XBOARD后端域名，前端不限制域名 |
 | **交流群组** | [NexGen Theme Group](https://t.me/fluentboard666) |
