@@ -117,8 +117,8 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 - **适用场景**: 企业服务、B2B业务
 
 ---
-## 📸 特色公告输入点击优惠卷自动到达套餐页面自动填入优惠卷
-<img src="https://cdn.nodeimage.com/i/XEUlMnjOmzOeEHwWWbXhXfXXHU0ffYzX.webp" width="400" height="750"><img src="https://cdn.nodeimage.com/i/6KXZ1NmOjH8qumsHgI8yy27PgOpJ1NpJ.webp" width="400" height="750"><img src="https://cdn.nodeimage.com/i/ocfZEOVZgVuyRDZkRbdU1hmEuwXXrU9n.webp" width="400" height="750">
+## 📸 特色促销公告输入点击优惠卷自动到达套餐页面自动填入优惠卷
+<img src="https://cdn.nodeimage.com/i/XEUlMnjOmzOeEHwWWbXhXfXXHU0ffYzX.webp" width="400" height="750"><img src="https://cdn.nodeimage.com/i/6KXZ1NmOjH8qumsHgI8yy27PgOpJ1NpJ.webp" width="400" height="750"><img src="https://cdn.nodeimage.com/i/ocfZEOVZgVuyRDZkRbdU1hmEuwXXrU9n.webp" width="400" height="750"><img src="https://cdn.nodeimage.com/i/FjR9dmvFE0sfQ2td9abJFDhQ4BZTDXA9.webp" width="400" height="750">
 
 ## 📸 超多自定义功能，比如可以自定义客服端区域的图标以及链接，还有侧边栏以及顶栏的菜单选项的的图标以及名称都能自定义，还能自定义点击跳转到别的页面
 ![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/01ccfe943831124b197a3a8c8638a987.png)
