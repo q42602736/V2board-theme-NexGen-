@@ -132,7 +132,8 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 <div align="center">
 
-<img src="https://cdn.nodeimage.com/i/syQL7ulsp2TNvxvDZYKJdXRuDI5vRCpC.webp" width="1000" height="800">
+<img src="https://cdn.nodeimage.com/i/syQL7ulsp2TNvxvDZYKJdXRuDI5vRCpC.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/nWRJzEvV5YZMB2tz1kZPYcLl1b7kvgcI.webp" width="800" height="700">
 ![预览图 2](https://tncache1-f1.v3mh.com/image/2025/10/21/07c3c61468cd81a056868dc7e4880173.png)
 ![预览图 3](https://tncache1-f1.v3mh.com/image/2025/10/21/38699efbca13a71100629f7dbabaa55a.png)
 ![预览图 4](https://tncache1-f1.v3mh.com/image/2025/10/21/0544440c4e26d9658838e545e5db82dd.png)
