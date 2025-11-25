@@ -134,16 +134,16 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 <img src="https://cdn.nodeimage.com/i/syQL7ulsp2TNvxvDZYKJdXRuDI5vRCpC.webp" width="800" height="700">
 <img src="https://cdn.nodeimage.com/i/nWRJzEvV5YZMB2tz1kZPYcLl1b7kvgcI.webp" width="800" height="700">
-![预览图 2](https://tncache1-f1.v3mh.com/image/2025/10/21/07c3c61468cd81a056868dc7e4880173.png)
-![预览图 3](https://tncache1-f1.v3mh.com/image/2025/10/21/38699efbca13a71100629f7dbabaa55a.png)
-![预览图 4](https://tncache1-f1.v3mh.com/image/2025/10/21/0544440c4e26d9658838e545e5db82dd.png)
-![预览图 5](https://tncache1-f1.v3mh.com/image/2025/10/21/ac57f0b082a478f82d10fc8e05a6c680.png)
-![预览图 6](https://tncache1-f1.v3mh.com/image/2025/10/21/c0f76c068f39551826bf40bf8a9cc485.png)
-![预览图 7](https://tncache1-f1.v3mh.com/image/2025/10/21/c7594b032ee5e607f01e58b64f2df924.png)
-![预览图 8](https://tncache1-f1.v3mh.com/image/2025/10/21/19477da251e1270fcbbd05d3181d4104.png)
-![预览图 9](https://tncache1-f1.v3mh.com/image/2025/10/21/59b0556ccc2657b4887857fbe7a1157c.png)
-![预览图 10](https://tncache1-f1.v3mh.com/image/2025/10/21/0a92dde7dcb08836faedb82e9f07edc1.png)
-
+<img src="https://cdn.nodeimage.com/i/Rc10BMp6ZYWZPrVoOUoz9bjCgZNk1Ujo.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/59aMsI5qoFJZqmXDRV0KpYpjhueffD0O.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/cfZs3R1v74jHZ8E3JPPNzCbOtLUWm49Y.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/7DeWlTJuK4lVyKbu6o36CzZyA6Hfr3cA.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/t9WW4d4hXO2f4LsShpyXcK62ODRHfUpd.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/bVtUJvLaqLfyhs4lUw2bUbyZcLsSMiSC.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/jctPNiLLnqxsf540CKZuZZwBMoUugIxo.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/KStCw1Ldlxk3vH46Qvd3ZYH5bVgEvl96.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/zllpLtAS8JvSlqymqDcjiWyhSu6BOgMa.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/PRyV2cNiVLEBGY2tuiBEsoruoSENqUVn.webp" width="800" height="700">
 </div>
 
 ---
