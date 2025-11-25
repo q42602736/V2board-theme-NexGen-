@@ -118,7 +118,7 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 ---
 ## 📸 特色公告输入点击优惠卷自动到达套餐页面自动填入优惠卷
-![预览图 1](https://cdn.nodeimage.com/i/mB7XRendGGKFMcGHUHMF5esKVEEk2Iwy.webp)
+<img src="https://cdn.nodeimage.com/i/mB7XRendGGKFMcGHUHMF5esKVEEk2Iwy.webp" width="50%">
 
 ## 📸 超多自定义功能，比如可以自定义客服端区域的图标以及链接，还有侧边栏以及顶栏的菜单选项的的图标以及名称都能自定义，还能自定义点击跳转到别的页面
 ![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/01ccfe943831124b197a3a8c8638a987.png)
