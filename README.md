@@ -18,8 +18,8 @@
 | 项目 | 信息 |
 |------|------|
 | **主题名称** | NexGen Theme |
-| **主题版本** | 1.0.0 |
-| **更新日期** | 2025/10/21 |
+| **主题版本** | 2.0.0 |
+| **更新日期** | 2025/11/25 |
 | **环境兼容** | v2board 1.7.2+、xboard、xiaov2board |
 | **视频预览** | [You Tube](https://www.youtube.com/watch?v=0LqaqoOu-vQ)|
 | **在线预览** | [在线演示](https://nexgen.afeicloud.de/) 测试账号：123@qq.com 密码：123456789|
