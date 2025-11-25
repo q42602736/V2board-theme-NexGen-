@@ -127,16 +127,12 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 ## 📸 项目登录页支持自定义图片、图片API、视频及视频API随机更换登录页面背景
 ![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/316f57949fbf3c996d406da6b139d49a.png)
 
-## 📸 特性公告可以更好搞活动促销
-![特性公告](https://cdn.nodeimage.com/i/jHp5mlWQyuF2K18tffVSFkQkVY9YxfvI.webp)
-
-
 
 ## 📸 主题预览
 
 <div align="center">
 
-![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/21/1dcd504e59a7cb91fb28737680653c3a.png)
+<img src="https://cdn.nodeimage.com/i/syQL7ulsp2TNvxvDZYKJdXRuDI5vRCpC.webp" width="1000" height="800">
 ![预览图 2](https://tncache1-f1.v3mh.com/image/2025/10/21/07c3c61468cd81a056868dc7e4880173.png)
 ![预览图 3](https://tncache1-f1.v3mh.com/image/2025/10/21/38699efbca13a71100629f7dbabaa55a.png)
 ![预览图 4](https://tncache1-f1.v3mh.com/image/2025/10/21/0544440c4e26d9658838e545e5db82dd.png)
