@@ -24,7 +24,7 @@
 | **视频预览** | [You Tube](https://www.youtube.com/watch?v=0LqaqoOu-vQ)|
 | **在线预览** | [在线演示](https://nexgen.afeicloud.de/) 测试账号：123@qq.com 密码：123456789|
 | **主题价格** | $ 60 USDT（前期优惠价格，后期会涨价） |
-| **授权方式** | 离线授权，一经授权终身可用，授权V2board及XBOARD后端域名，前端不限制域名 |
+| **授权方式** | 离线授权，一经授权终身可用，授权xiaoV2Board及XBOARD后端域名，前端不限制域名 |
 | **交流群组** | [NexGen Theme Group](https://t.me/fluentboard666) |
 | **购买方式** | [联系购买](https://t.me/alexlilu) |
 
@@ -40,7 +40,7 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 - **🌍 完整多语言** - 支持中文、英文、繁体中文、日文、韩文
 - **⚡ 高性能后端** - Go语言编写的API服务器，支持缓存和并发
 - **📱 响应式设计** - 完美适配桌面端、平板和移动设备
-- **🔧 灵活配置** - YAML配置文件，支持V2Board和Xboard双后端
+- **🔧 灵活配置** - YAML配置文件，支持xiaoV2Board和Xboard双后端
 
 ---
 
