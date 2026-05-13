@@ -44,37 +44,6 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 ---
 
-## 🏗️ 技术架构
-
-### 前端技术栈
-
-| 技术 | 版本 | 用途 |
-|------|------|------|
-| **Vue 3** | 3.4+ | 渐进式JavaScript框架，使用Composition API |
-| **TypeScript** | 5.3+ | 类型安全的JavaScript超集 |
-| **Tailwind CSS** | 4.1+ | 原子化CSS框架，快速构建UI |
-| **Vite** | 5.0+ | 下一代前端构建工具 |
-| **Pinia** | 2.1+ | Vue官方状态管理库 |
-| **Vue Router** | 4.2+ | Vue官方路由管理器 |
-| **shadcn-vue** | 最新 | 高质量UI组件库 |
-| **PrimeVue** | 4.3+ | 丰富的Vue UI组件库 |
-
-### 后端技术栈
-
-| 技术 | 版本 | 用途 |
-|------|------|------|
-| **Go** | 1.21+ | 高性能后端语言 |
-| **Gin** | 1.9+ | 轻量级Web框架 |
-
-### 动画与可视化
-
-- **GSAP** - 专业级动画库
-- **ECharts** - 数据可视化图表
-- **tsParticles** - 粒子动画效果
-- **OGL** - 轻量级WebGL库
-
----
-
 ## 🎨 多落地页展示
 
 ### 1. Global Proxy Theme（全球代理落地页）
