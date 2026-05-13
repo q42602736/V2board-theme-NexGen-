@@ -36,7 +36,7 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 ### 🎯 核心特性
 
-- **🎨 多主题系统** - 2个精心设计的主题，5个落地页可供选择，满足不同业务需求
+- **🎨 多主题系统** - 2个精心设计的主题，8个落地页可供选择，满足不同业务需求
 - **🌍 完整多语言** - 支持中文、英文、繁体中文、日文、韩文
 - **⚡ 高性能后端** - Go语言编写的API服务器，支持缓存和并发
 - **📱 响应式设计** - 完美适配桌面端、平板和移动设备
@@ -50,37 +50,38 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 <img src="https://cdn.nodeimage.com/i/7lxpEjoLEP7xm490TysCiDfp7EiSXGLM.webp" width="800" alt="Global Proxy Theme 预览">
 
-- **设计风格**: 科技感、专业、国际化
-- **特色功能**: 
-  - 网络流量动画，展示全球节点分布
-  - 实时统计数据展示
-  - 流媒体支持标识
-  - 动态粒子背景
-- **适用场景**: 国际代理服务、VPN服务商
 
 ### 2. Cool Theme（酷炫落地页）
-- **设计风格**: 现代简约、动感活力
-- **特色功能**:
-  - 流畅的页面过渡动画
-  - 卡片式布局
-  - 渐变色彩搭配
-- **适用场景**: 年轻用户群体、时尚品牌
+
+<img src="https://cdn.nodeimage.com/i/Q5knRM6XuPykpez06tezxjEwbMK1Q0or.webp" width="800" alt="Cool Theme 预览">
 
 ### 3. Malio Theme（马里奥落地页）
-- **设计风格**: 游戏化、趣味性
-- **特色功能**:
-  - 游戏风格UI元素
-  - 互动式动画
-  - 彩色主题配色
-- **适用场景**: 游戏加速器、娱乐服务
+
+<img src="https://cdn.nodeimage.com/i/lSnkWXYuSzKymMHnaHU9mD6JhWPlZ1wI.webp" width="800" alt="Malio Theme 预览">
 
 ### 4. Jobfolio Theme（作品集落地页）
-- **设计风格**: 专业、简洁、商务
-- **特色功能**:
-  - 作品集式布局
-  - 专业的排版设计
-  - 清晰的信息层级
-- **适用场景**: 企业服务、B2B业务
+
+<img src="https://cdn.nodeimage.com/i/ZehFGoFxqjbzymgaX8h7NBTo9lrLLykP.webp" width="800" alt="Jobfolio Theme 预览">
+
+### 5. Wukong Theme（悟空落地页）
+
+<img src="https://cdn.nodeimage.com/i/7LDQPOq8g4h5ja0vzSDWpK5yBv0CMm7r.webp" width="800" alt="Wukong Theme 预览">
+
+### 6. Zujike Theme（机场落地页）
+
+<img src="https://cdn.nodeimage.com/i/570m7itsmN5zyKTtlmcpmojZPsbRCAIV.webp" width="800" alt="Zujike Theme 预览">
+
+### 7. Logoisum Theme（品牌展示落地页）
+
+<img src="https://cdn.nodeimage.com/i/Unfd9SVC56mkl0ZkXMgLkpqYf1k9HEpg.webp" width="800" alt="Logoisum Theme 预览">
+
+### 8. Astra Theme（二次元落地页）
+
+<img src="https://cdn.nodeimage.com/i/svVGgGbOU5EPCUjiK1fNtl5lfiuhq4Yw.webp" width="800" alt="Astra Theme 预览 1">
+
+<img src="https://cdn.nodeimage.com/i/SZbUuoPajUHHqeflTszy8JsXJPPd5NlK.webp" width="800" alt="Astra Theme 预览 2">
+
+<img src="https://cdn.nodeimage.com/i/WXG4Ulfth0RhfuxJxdWwO36ZtoTCm4nX.webp" width="800" alt="Astra Theme 预览 3">
 
 ---
 ## 📸 免登录注册购买一体功能
