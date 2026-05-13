@@ -47,6 +47,9 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 ## 🎨 多落地页展示
 
 ### 1. Global Proxy Theme（全球代理落地页）
+
+<img src="https://cdn.nodeimage.com/i/7lxpEjoLEP7xm490TysCiDfp7EiSXGLM.webp" width="800" alt="Global Proxy Theme 预览">
+
 - **设计风格**: 科技感、专业、国际化
 - **特色功能**: 
   - 网络流量动画，展示全球节点分布
