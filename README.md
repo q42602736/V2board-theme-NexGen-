@@ -89,12 +89,11 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 ## 📸 特色促销公告输入点击优惠卷自动到达套餐页面自动填入优惠卷
 <img src="https://cdn.nodeimage.com/i/XEUlMnjOmzOeEHwWWbXhXfXXHU0ffYzX.webp" width="400"><img src="https://cdn.nodeimage.com/i/6KXZ1NmOjH8qumsHgI8yy27PgOpJ1NpJ.webp" width="400"><img src="https://cdn.nodeimage.com/i/ocfZEOVZgVuyRDZkRbdU1hmEuwXXrU9n.webp" width="400"><img src="https://cdn.nodeimage.com/i/FjR9dmvFE0sfQ2td9abJFDhQ4BZTDXA9.webp" width="400">
 
-## 📸 超多自定义功能，比如可以自定义客服端区域的图标以及链接，还有侧边栏以及顶栏的菜单选项的的图标以及名称都能自定义，还能自定义点击跳转到别的页面
-![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/01ccfe943831124b197a3a8c8638a987.png)
+## 📸 自带配置页面，一键配置超简单
 
-
-## 📸 项目登录页支持自定义图片、图片API、视频及视频API随机更换登录页面背景
-![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/316f57949fbf3c996d406da6b139d49a.png)
+<img src="https://cdn.nodeimage.com/i/IwcCljH09sl1GFWqr2S2XNpfwuBX8orx.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/ykiE0OTdwcp6H9aUytcY7X0ijjM1C9dm.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/Ke6XqJDNV2mC06C9Wj88Rl7nfKhu5GFz.webp" width="800">
 
 
 ## 📸 主题预览
