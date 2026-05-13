@@ -85,9 +85,9 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 ---
 ## 📸 免登录注册购买一体功能
-<img src="https://cdn.nodeimage.com/i/XkifALTEF58bAUawAL10Q4GxNkEWiYmD.webp" width="800" height="900">
+<img src="https://cdn.nodeimage.com/i/XkifALTEF58bAUawAL10Q4GxNkEWiYmD.webp" width="800">
 ## 📸 特色促销公告输入点击优惠卷自动到达套餐页面自动填入优惠卷
-<img src="https://cdn.nodeimage.com/i/XEUlMnjOmzOeEHwWWbXhXfXXHU0ffYzX.webp" width="400" height="750"><img src="https://cdn.nodeimage.com/i/6KXZ1NmOjH8qumsHgI8yy27PgOpJ1NpJ.webp" width="400" height="750"><img src="https://cdn.nodeimage.com/i/ocfZEOVZgVuyRDZkRbdU1hmEuwXXrU9n.webp" width="400" height="750"><img src="https://cdn.nodeimage.com/i/FjR9dmvFE0sfQ2td9abJFDhQ4BZTDXA9.webp" width="400" height="750">
+<img src="https://cdn.nodeimage.com/i/XEUlMnjOmzOeEHwWWbXhXfXXHU0ffYzX.webp" width="400"><img src="https://cdn.nodeimage.com/i/6KXZ1NmOjH8qumsHgI8yy27PgOpJ1NpJ.webp" width="400"><img src="https://cdn.nodeimage.com/i/ocfZEOVZgVuyRDZkRbdU1hmEuwXXrU9n.webp" width="400"><img src="https://cdn.nodeimage.com/i/FjR9dmvFE0sfQ2td9abJFDhQ4BZTDXA9.webp" width="400">
 
 ## 📸 超多自定义功能，比如可以自定义客服端区域的图标以及链接，还有侧边栏以及顶栏的菜单选项的的图标以及名称都能自定义，还能自定义点击跳转到别的页面
 ![预览图 1](https://tncache1-f1.v3mh.com/image/2025/10/26/01ccfe943831124b197a3a8c8638a987.png)
@@ -101,18 +101,18 @@ NexGen Theme 是一个完整的前后端分离解决方案，专为V2Board/Xboar
 
 <div align="center">
 
-<img src="https://cdn.nodeimage.com/i/syQL7ulsp2TNvxvDZYKJdXRuDI5vRCpC.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/nWRJzEvV5YZMB2tz1kZPYcLl1b7kvgcI.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/Rc10BMp6ZYWZPrVoOUoz9bjCgZNk1Ujo.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/59aMsI5qoFJZqmXDRV0KpYpjhueffD0O.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/cfZs3R1v74jHZ8E3JPPNzCbOtLUWm49Y.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/7DeWlTJuK4lVyKbu6o36CzZyA6Hfr3cA.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/t9WW4d4hXO2f4LsShpyXcK62ODRHfUpd.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/bVtUJvLaqLfyhs4lUw2bUbyZcLsSMiSC.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/jctPNiLLnqxsf540CKZuZZwBMoUugIxo.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/KStCw1Ldlxk3vH46Qvd3ZYH5bVgEvl96.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/zllpLtAS8JvSlqymqDcjiWyhSu6BOgMa.webp" width="800" height="700">
-<img src="https://cdn.nodeimage.com/i/PRyV2cNiVLEBGY2tuiBEsoruoSENqUVn.webp" width="800" height="700">
+<img src="https://cdn.nodeimage.com/i/syQL7ulsp2TNvxvDZYKJdXRuDI5vRCpC.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/nWRJzEvV5YZMB2tz1kZPYcLl1b7kvgcI.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/Rc10BMp6ZYWZPrVoOUoz9bjCgZNk1Ujo.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/59aMsI5qoFJZqmXDRV0KpYpjhueffD0O.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/cfZs3R1v74jHZ8E3JPPNzCbOtLUWm49Y.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/7DeWlTJuK4lVyKbu6o36CzZyA6Hfr3cA.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/t9WW4d4hXO2f4LsShpyXcK62ODRHfUpd.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/bVtUJvLaqLfyhs4lUw2bUbyZcLsSMiSC.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/jctPNiLLnqxsf540CKZuZZwBMoUugIxo.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/KStCw1Ldlxk3vH46Qvd3ZYH5bVgEvl96.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/zllpLtAS8JvSlqymqDcjiWyhSu6BOgMa.webp" width="800">
+<img src="https://cdn.nodeimage.com/i/PRyV2cNiVLEBGY2tuiBEsoruoSENqUVn.webp" width="800">
 </div>
 
 ---
